@@ -8,7 +8,6 @@
   height: 50vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.65),rgba(0, 0, 0, 0.65)),URL(../images/card2.jpg);
   background-position: center;
-  background-attachment: fixed;
   background-size: cover;
   padding-left: 8%;
   padding-right: 8%;
